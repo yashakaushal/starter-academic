@@ -6,8 +6,7 @@ title: Yasha Kaushal
 superuser: true
 
 # Role/position/tagline
-- role: PhD Candidate
-  url: https://www.physicsandastronomy.pitt.edu/people/yasha-kaushal 
+role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
