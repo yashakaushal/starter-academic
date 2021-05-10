@@ -63,8 +63,8 @@ social:
 #     icon_pack: ai
 #     link: https://www.mendeley.com/profiles//
 - icon: orcid
-    icon_pack: ai
-    link: https://orcid.org/0000-0003-4382-4467
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-4382-4467
 
 
 # Link to a PDF of your resume/CV.
