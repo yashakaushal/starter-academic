@@ -20,7 +20,7 @@ bio: I am interested in understanding the dynamics, evolution and star-formation
 
 # Interests to show in About widget
 interests:
-- Galaxy Dynamics, Evolution and Properties
+- Galaxy Dynamics and Evolution
 - SED Modeling (Parametric and Non-Parametric) 
 - Star Formation Histories 
 - Bayesian Statistics and Machine Learning Methods 
@@ -59,6 +59,13 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/yasha-kaushal-3b212aa0/
+# - icon: mendeley
+#     icon_pack: ai
+#     link: https://www.mendeley.com/profiles//
+- icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0003-4382-4467
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -74,7 +81,6 @@ email: "yak39@pitt.edu"
 highlight_name: true
 ---
 
-Hi there! 
-I am a third year gradute student in the department of Physics and Astronomy at the University of Pittsburgh. 
+ I am a third year Gradute Student in the Department of Physics and Astronomy at the University of Pittsburgh working under the supervision of *[Dr. Rachel Bezanson](https://rachelbezanson.github.io/). My research focuses on understanding the dynamics and evolution of high-redshift galaxies statistically through cosmic time using high resolution spectroscopy and multi-band photometry. I am interested in studying the recovery of star-formation histories and the interplay of stellar population parameters like stellar metallicity, light-weighted ages and dust attenuation with morphology, feedback processes and environment. Most of my analysis so far involve working with *[LEGA-C Spectroscopic Survey](https://www2.mpia-hd.mpg.de/home/legac/) data products and Bayesian SED Modeling package *[BAGPIPES](https://github.com/ACCarnall/bagpipes/blob/master/docs/index.rst). I am an engineer-turned-astronophysicist, love talking about science and currently serving as an Outreach Coordinator for *[Women and Minorities in Physics (WMP)](https://www.physicsandastronomy.pitt.edu/women-and-minorities-physics-pitt) Group at Pitt. When not doing research, I could be found doing *[Zoomba](https://twitter.com/KaushalYasha/status/1379159957518610441), *[Orange Theory Fitness](https://www.orangetheory.com/en-us/?utm_source=us&utm_medium=sem&utm_campaign=Orangetheory-PPC-Brand-General&utm_term=tombras&utm_content=2_free&gclid=Cj0KCQjws-OEBhCkARIsAPhOkIajVa7XVxQG45bbt9Uf8s0gXjW_YKXs2ZLxLkqdxVEVPPfzVg460EkaArQKEALw_wcB), *[Dancing](https://www.youtube.com/watch?v=2i_vUyVNzOU) or Gardening. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "/cs2.jpeg" "newtab" >}}resumé{{< /staticref >}}.
