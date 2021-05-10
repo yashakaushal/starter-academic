@@ -10,8 +10,9 @@ role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Department of Physcis and Astronomy \n University of Pittsburgh
+- name: Department of Physcis and Astronomy 
   url: https://www.physicsandastronomy.pitt.edu/
+- name: University of Pittsburgh
   
 
 # Short bio (displayed in user profile at end of posts)
@@ -20,8 +21,10 @@ bio: I am interested in understanding the dynamics, evolution and star-formation
 # Interests to show in About widget
 interests:
 - Galaxy Dynamics, Evolution and Properties
-- SED Modeling (Spectral + Photometric) 
+- SED Modeling (Parametric and Non-Parametric) 
 - Star Formation Histories 
+- Bayesian Statistics and Machine Learning Methods 
+- Science Communication 
 
 # Education to show in About widget
 education:
@@ -74,4 +77,4 @@ highlight_name: true
 Hi there! 
 I am a third year gradute student in the department of Physics and Astronomy at the University of Pittsburgh. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://github.com/yashakaushal/yashakaushal.github.io/blob/main/media/icons/brands/cs2.jpeg" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< ref "https://github.com/yashakaushal/yashakaushal.github.io/blob/main/media/icons/brands/cs2.jpeg" "newtab" >}}resumé{{< /ref >}}.
