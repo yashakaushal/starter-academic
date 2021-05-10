@@ -10,8 +10,9 @@ role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Pittsburgh
+- name: Department of Physcis and Astronomy \n University of Pittsburgh
   url: https://www.physicsandastronomy.pitt.edu/
+  
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am interested in understanding the dynamics, evolution and star-formation history of high redshift galaxies using statistical SED Modeling. 
@@ -26,10 +27,10 @@ interests:
 education:
   courses:
   - course: PhD Candidate in Physics 
-    institution: University of Pittsburgh, Pittsburgh, USA
+    institution: University of Pittsburgh, USA
     year: 2020 - Present
   - course: Master of Science in Physics 
-    institution: University of Pittsburgh, Pittsburgh, USA
+    institution: University of Pittsburgh, USA
     year: 2018 - 2020
   - course: Bachelor of Technology in Electronics and Communication Engineering
     institution: National Institute of Technology, Bhopal, India
@@ -67,9 +68,10 @@ social:
 email: "yak39@pitt.edu"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
+Hi there! 
+I am a third year gradute student in the department of Physics and Astronomy at the University of Pittsburgh. 
 
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://github.com/yashakaushal/yashakaushal.github.io/blob/main/media/icons/brands/cs2.jpeg" "newtab" >}}resumé{{< /staticref >}}.
