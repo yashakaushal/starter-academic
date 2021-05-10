@@ -77,4 +77,4 @@ highlight_name: true
 Hi there! 
 I am a third year gradute student in the department of Physics and Astronomy at the University of Pittsburgh. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< ref "https://github.com/yashakaushal/yashakaushal.github.io/blob/main/media/icons/brands/cs2.jpeg" "newtab" >}}resumé{{< /ref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< ref "https://github.com/yashakaushal/yashakaushal.github.io/blob/main/media/icons/brands/cs2.jpeg" "newtab" >}}resumé{{< ref >}}.
