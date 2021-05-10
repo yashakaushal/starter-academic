@@ -7,12 +7,14 @@ superuser: true
 
 # Role/position/tagline
 role: PhD Candidate
+url: https://www.physicsandastronomy.pitt.edu/people/yasha-kaushal 
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Department of Physcis and Astronomy 
   url: https://www.physicsandastronomy.pitt.edu/
 - name: University of Pittsburgh
+  url: https://www.pitt.edu/ 
   
 
 # Short bio (displayed in user profile at end of posts)
