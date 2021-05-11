@@ -25,7 +25,7 @@ experience:
   - title: Graduate Student Researcher 
     company: University of Pittsburgh 
     company_url: ''
-    company_logo: pitt
+    # company_logo: pitt
     location: Pittsburgh, USA
     date_start: '2019-07-01'
     date_end: ''
@@ -35,7 +35,7 @@ experience:
   - title: Graduate Student Teaching Assistant
     company: University of Pittsburgh 
     company_url: ''
-    company_logo: pitt
+    # company_logo: pitt
     location: Pittsburgh
     date_start: '2018-07-01'
     date_end: '2019-07-01'
