@@ -70,7 +70,7 @@ experience:
       Served in Program Planning and Project Management (PPPM) Team working on Project Milestones and Timelines to be met by each department within the company which improved my leadership, team playing and group dynamics skills. 
 
   - title: Summer Internship 
-    company: NIT-K
+    company: National Institute of Technology, Surathkal 
     company_url: ''
     # company_logo: pitt
     location: Surathkal , India
