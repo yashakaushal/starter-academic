@@ -43,7 +43,7 @@ experience:
     Teaching Assistant for two courses
       * ASTRON-0089 Stars, Galaxies and Cosmos (Astronomy) 
       * PHYS-0110 Introduction to Physics-1 (Physics)
-      
+
 design:
   columns: '2'
 ---
