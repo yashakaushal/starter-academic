@@ -30,7 +30,7 @@ experience:
     date_start: '2019-07-01'
     date_end: ''
     description: |2-
-      Studying the recovery of star-formation histories and understanding the interplay of stellar population parameters like stellar metallicity, light-weighted ages and dust attenuation with morphology, feedback processes and environment of LEGA-C galaxies using Bayesian SED modeling. 
+      Studying the recovery of star-formation histories and understanding the interplay of stellar population parameters like stellar metallicity, light-weighted ages and dust attenuation with morphology, feedback processes and environment of LEGA-C galaxies using Bayesian SED modeling under guidance of <a href="https://rachelbezanson.github.io/" target="_blanck"> Dr. Rachel Bezanson</a>
         
   - title: Graduate Teaching Assistant
     company: University of Pittsburgh 
