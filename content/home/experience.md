@@ -42,14 +42,14 @@ experience:
     description: |2- 
       Teaching Assistant for two courses:
       
-        * **ASTRON-0089**  &nbsp Stars, Galaxies and Cosmos (Astronomy) 
-        * **PHYS-0110** &nbsp Introduction to Physics-1 (Physics)
+        * **ASTRON-0089**  Stars, Galaxies and Cosmos
+        * **PHYS-0110**   Introduction to Physics
 
   - title: Intern and Visiting Student 
-    company: 
+    company: IUCAA-Pune, IIA Bangalore and Bangalore University
     company_url: ''
     # company_logo: pitt
-    location: IUCAA-Pune, IIA Bangalore and Bangalore University, India
+    location: India
     date_start: '2016-08-01'
     date_end: '2018-07-01'
     description: |2-
@@ -57,7 +57,7 @@ experience:
       
         * Analyzing High Energy X-ray Data from ASTROSAT Satellite (Prof. Ranjeev Misra)
         * Spectroscopic Data Reduction of Visual-Binary Stars (Dr. Margarita Safonova)
-        * Understanding Astronomical Data Processing Software Systems <a href="https://github.com/yashakaushal/DTU-Conference-2018/blob/main/DTU.pdf" target="_blanck">Publication Here</a> (Prof. V.K. Doddamani) 
+        * Understanding Astronomical Data Processing Software Systems (Prof. V.K. Doddamani) <a href="https://github.com/yashakaushal/DTU-Conference-2018/blob/main/DTU.pdf" target="_blanck">Publication Here</a> 
   
   - title: Graduate Engineer Trainee (GET)
     company: Tata Motors Limited
