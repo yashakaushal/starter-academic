@@ -23,14 +23,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: https://github.com/yashakaushal/CRC-Proposal/blob/main/proposal_final.pdf 
   date_end: ""
-  date_start: "2021-01-25"
+  date_start: "2020-06-01"
   description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
+  organization: CRC
+  organization_url:   https://crc.pitt.edu/ 
+  title: Computational Proposal of 3.7 million CPU hours 
+  url: "https://crc.pitt.edu/Finding-Light-Eight-Billion-Years-Old/"
 - certificate_url: https://www.edx.org
   date_end: ""
   date_start: "2021-01-01"
