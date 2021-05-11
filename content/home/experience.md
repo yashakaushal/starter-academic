@@ -30,7 +30,7 @@ experience:
     date_start: '2019-07-01'
     date_end: ''
     description: |2-
-      Studying the recovery of star-formation histories and understanding the interplay of stellar population parameters like stellar metallicity, light-weighted ages and dust attenuation with morphology, feedback processes and environment of LEGA-C galaxies. 
+    Studying the recovery of star-formation histories and understanding the interplay of stellar population parameters like stellar metallicity, light-weighted ages and dust attenuation with morphology, feedback processes and environment of LEGA-C galaxies using Parametric Bayesian SED modeling. 
         
   - title: Graduate Teaching Assistant
     company: University of Pittsburgh 
@@ -40,10 +40,10 @@ experience:
     date_start: '2018-07-01'
     date_end: '2019-07-01'
     description: |2- 
-      Teaching Assistant for two courses:
+    Teaching Assistant for two courses:
 
-        * ASTRON-0089 Stars, Galaxies and Cosmos (Astronomy) 
-        * PHYS-0110 Introduction to Physics-1 (Physics)
+      * **ASTRON-0089**    Stars, Galaxies and Cosmos (Astronomy) 
+      * **PHYS-0110**      Introduction to Physics-1 (Physics)
 
 design:
   columns: '2'
