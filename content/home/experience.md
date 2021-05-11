@@ -22,29 +22,28 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Graduate Student Researcher 
+    company: University of Pittsburgh 
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    company_logo: pitt
+    location: Pittsburgh, USA
+    date_start: '2019-07-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Studying the interplay of stellar population parameters like stellar metallicity, light-weighted ages and dust attenuation with morphology, feedback processes and environment of LEGA-C galaxies. Also studying recovery of their star-formation histories. 
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Graduate Student Teaching Assistant
+    company: University of Pittsburgh 
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-
+    company_logo: pitt
+    location: Pittsburgh
+    date_start: '2018-07-01'
+    date_end: '2019-07-01'
+    description: |2- 
+    Teaching Assistant for two courses
+      * ASTRON-0089 Stars, Galaxies and Cosmos (Astronomy) 
+      * PHYS-0110 Introduction to Physics-1 (Physics)
+      
 design:
   columns: '2'
 ---
