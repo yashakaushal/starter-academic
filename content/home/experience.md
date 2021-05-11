@@ -40,9 +40,9 @@ experience:
     date_start: '2018-07-01'
     date_end: '2019-07-01'
     description: |2- 
-    Teaching Assistant for two courses
-      * ASTRON-0089 Stars, Galaxies and Cosmos (Astronomy) 
-      * PHYS-0110 Introduction to Physics-1 (Physics)
+        Teaching Assistant for two courses
+          * ASTRON-0089 Stars, Galaxies and Cosmos (Astronomy) 
+          * PHYS-0110 Introduction to Physics-1 (Physics)
 
 design:
   columns: '2'
