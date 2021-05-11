@@ -49,7 +49,7 @@ experience:
     company: 
     company_url: ''
     # company_logo: pitt
-    location: IUCAA-Pune, IIA Bangalore and Bangalore University
+    location: IUCAA-Pune, IIA Bangalore and Bangalore University, India
     date_start: '2016-08-01'
     date_end: '2018-07-01'
     description: |2-
@@ -57,7 +57,27 @@ experience:
       
         * Analyzing High Energy X-ray Data from ASTROSAT Satellite (Prof. Ranjeev Misra)
         * Spectroscopic Data Reduction of Visual-Binary Stars (Dr. Margarita Safonova)
-        * <a href="https://github.com/yashakaushal/DTU-Conference-2018/blob/main/DTU.pdf" target="_blanck">Understanding Astronomical Data Processing Software Systems</a> (Prof. V.K. Doddamani) 
+        * Understanding Astronomical Data Processing Software Systems <a href="https://github.com/yashakaushal/DTU-Conference-2018/blob/main/DTU.pdf" target="_blanck">Publication Here</a> (Prof. V.K. Doddamani) 
+  
+  - title: Graduate Engineer Trainee (GET)
+    company: Tata Motors Limited
+    company_url: ''
+    # company_logo: pitt
+    location: Pune, India
+    date_start: '2015-07-01'
+    date_end: '2016-07-01'
+    description: |2- 
+      Served in Program Planning and Project Management (PPPM) Team working on Project Milestones and Timelines to be met by each department within the company which improved my leadership, team playing and group dynamics skills. 
+
+  - title: Summer Internship 
+    company: NIT-K
+    company_url: ''
+    # company_logo: pitt
+    location: Surathkal , India
+    date_start: '2014-05-01'
+    date_end: '2014-08-01'
+    description: |2-
+      Analyzing performance of various network protocols and topologies in terms of parameters like throughput and end-to-end delay using ns-3 simulator. <a href="http://www.ijmer.com/pages/Vol.4-Iss.7(Version-1).html" target="_blanck">Publication Here</a> 
 
 design:
   columns: '2'
