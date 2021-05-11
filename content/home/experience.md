@@ -42,8 +42,8 @@ experience:
     description: |2- 
       Teaching Assistant for two courses:
       
-        * **ASTRON-0089**  Stars, Galaxies and Cosmos (Astronomy) 
-        * **PHYS-0110**    Introduction to Physics-1 (Physics)
+        * **ASTRON-0089**  &nbsp Stars, Galaxies and Cosmos (Astronomy) 
+        * **PHYS-0110** &nbsp Introduction to Physics-1 (Physics)
 
   - title: Intern and Visiting Student 
     company: 
