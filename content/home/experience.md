@@ -67,7 +67,7 @@ experience:
     date_start: '2015-07-01'
     date_end: '2016-07-01'
     description: |2- 
-      Served in Program Planning and Project Management (PPPM) Team working on Project Milestones and Timelines to be met by each department within the company which improved my leadership, team playing and group dynamics skills. 
+      Served in Program Planning and Project Management (PPPM) Team working on building project milestones and timelines for each department within the company which improved my management, leadership, team playing skills. 
 
   - title: Summer Internship 
     company: National Institute of Technology, Surathkal 
