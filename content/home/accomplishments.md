@@ -31,7 +31,7 @@ item:
   organization_url:   https://crc.pitt.edu/ 
   title: Computational Proposal of 3.7 million CPU hours 
   url: "https://crc.pitt.edu/Finding-Light-Eight-Billion-Years-Old/"
-- certificate_url: https://www.edx.org
+- certificate_url: 
   date_end: ""
   date_start: "2021-01-01"
   description: Formulated informed blockchain models, hypotheses, and use cases.
@@ -51,3 +51,6 @@ item:
 design:
   columns: '2' 
 ---
+
+
+<!-- * 100-hour certificate course in Astronomy and Astrophysics at <a href="http://www.mpbifr-blr.in/courses/100hr.htm">MPBIFR-Bangalore</a> <br> <a href="" target="_blanck">Dissertation Here</a>  -->
