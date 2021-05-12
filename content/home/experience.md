@@ -25,12 +25,12 @@ experience:
   - title: Graduate Student Researcher 
     company: University of Pittsburgh 
     company_url: ''
-    # company_logo: pitt
+    company_logo: pitt
     location: Pittsburgh, USA
     date_start: '2019-07-01'
     date_end: ''
     description: |2-
-      Studying the recovery of star-formation histories and understanding the interplay of stellar population parameters like stellar metallicity, light-weighted ages and dust attenuation with morphology, feedback processes and environment of LEGA-C galaxies using Bayesian SED modeling under guidance of <a href="https://rachelbezanson.github.io/" target="_blanck"> Dr. Rachel Bezanson</a>
+      Studying the recovery of star-formation histories and the interplay of stellar population parameters like stellar metallicity, light-weighted ages and dust attenuation with morphology, feedback processes and environment of LEGA-C galaxies using Bayesian SED modeling under guidance of <a href="https://rachelbezanson.github.io/" target="_blanck"> Dr. Rachel Bezanson</a>
         
   - title: Graduate Teaching Assistant
     company: University of Pittsburgh 
@@ -55,7 +55,7 @@ experience:
     description: |2-
       Gained basic research experience working on 
       
-        * Analyzing High Energy X-ray Data from ASTROSAT Satellite (Prof. Ranjeev Misra)
+        * Analyzing High Energy X-ray Data from ASTROSAT Satellite (Prof. Ranjeev Misra) <a href="http://publication.iucaa.in/Khagol_115/HTML/2/" target="_blanck">Memories Here!</a>
         * Spectroscopic Data Reduction of Visual-Binary Stars (Dr. Margarita Safonova)
         * Understanding Astronomical Data Processing Software Systems (Prof. V.K. Doddamani) <a href="https://github.com/yashakaushal/DTU-Conference-2018/blob/main/DTU.pdf" target="_blanck">Publication Here</a> 
   

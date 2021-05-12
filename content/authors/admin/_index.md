@@ -10,7 +10,7 @@ role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Department of Physcis and Astronomy 
+- name: Department of Physics and Astronomy 
   url: https://www.physicsandastronomy.pitt.edu/
 - name: University of Pittsburgh
   url: https://www.pitt.edu/ 

@@ -30,8 +30,8 @@ address:
   country: United States
   country_code: US
 coordinates:
-  latitude: '40.444697629335366'
-  longitude: '-79.95832037127798'
+  latitude: '40.4446'
+  longitude: '79.95832'
 directions: Enter Building 1 and take the elevator to Office 500 on Floor 5
 # office_hours:
 #   - 'Monday 10:00 to 13:00'
