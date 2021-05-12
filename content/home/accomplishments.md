@@ -23,22 +23,22 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://github.com/yashakaushal/CRC-Proposal/blob/main/proposal_final.pdf 
+- certificate_url: https://crc.pitt.edu/Finding-Light-Eight-Billion-Years-Old
   date_end: ""
   date_start: "2020-06-01"
-  description: ""
+  description: Proposal approved and awarded with 3.7 million CPU hours on Pitt CRC Supercomputing Cluster
   organization: CRC
   organization_url:   https://crc.pitt.edu/ 
   title: Computational Proposal of 3.7 million CPU hours 
-  url: "https://crc.pitt.edu/Finding-Light-Eight-Billion-Years-Old/"
-- certificate_url: 
-  date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  url: "https://github.com/yashakaushal/CRC-Proposal/blob/main/proposal_final.pdf"
+- certificate_url: https://www.overleaf.com/read/jxjjwqbsyfsq 
+  date_end: "2021-05-01"
+  date_start: "2020-08-01"
+  description: Best Technical Essay Writing on 'The Measurement Problem in Quantum Mechanics'  <br> $2500 Awarded
+  organization: University of Pittsburgh 
+  organization_url: https://www.physicsandastronomy.pitt.edu/ 
+  title: Thomas-Lain Scholarship Award 
+  url: https://www.physicsandastronomy.pitt.edu/graduate/graduate-student-awards
 - certificate_url: https://www.datacamp.com
   date_end: "2020-12-21"
   date_start: "2020-07-01"
