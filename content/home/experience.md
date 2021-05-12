@@ -24,60 +24,60 @@ date_format: Jan 2006
 experience:
   - title: Graduate Student Researcher 
     company: University of Pittsburgh 
-    company_url: ''
+    company_url: 'https://www.physicsandastronomy.pitt.edu/people/yasha-kaushal'
     company_logo: pitt
     location: Pittsburgh, USA
     date_start: '2019-07-01'
     date_end: ''
     description: |2-
-      Studying the recovery of star-formation histories and the interplay of stellar population parameters like stellar metallicity, light-weighted ages and dust attenuation with morphology, feedback processes and environment of LEGA-C galaxies using Bayesian SED modeling under guidance of <a href="https://rachelbezanson.github.io/" target="_blanck"> Dr. Rachel Bezanson</a>
+      Studying the recovery of star-formation histories and the interplay of stellar population parameters like stellar metallicity, light-weighted ages and dust attenuation with morphology, feedback processes and environment of LEGA-C galaxies using Bayesian SED modeling under guidance of <a href="https://rachelbezanson.github.io/" target="_blanck"> Dr. Rachel Bezanson</a>.
         
   - title: Graduate Teaching Assistant
     company: University of Pittsburgh 
-    company_url: ''
-    # company_logo: pitt
+    company_url: 'https://www.physicsandastronomy.pitt.edu/people/yasha-kaushal'
+    company_logo: pitt
     location: Pittsburgh, USA
     date_start: '2018-07-01'
     date_end: '2019-07-01'
     description: |2- 
       Teaching Assistant for two courses:
       
-        * **ASTRON-0089**  Stars, Galaxies and Cosmos
-        * **PHYS-0110**   Introduction to Physics
+        * **ASTRON - 0089**  Stars, Galaxies and Cosmos
+        * **PHYS - 0110**   Introduction to Physics
 
   - title: Intern and Visiting Student 
     company: IUCAA-Pune, IIA Bangalore and Bangalore University
     company_url: ''
-    # company_logo: pitt
+    company_logo: intern
     location: India
     date_start: '2016-08-01'
     date_end: '2018-07-01'
     description: |2-
       Gained basic research experience working on 
       
-        * Analyzing High Energy X-ray Data from ASTROSAT Satellite (Prof. Ranjeev Misra) <a href="http://publication.iucaa.in/Khagol_115/HTML/2/" target="_blanck">Memories Here!</a>
-        * Spectroscopic Data Reduction of Visual-Binary Stars (Dr. Margarita Safonova)
-        * Understanding Astronomical Data Processing Software Systems (Prof. V.K. Doddamani) <a href="https://github.com/yashakaushal/DTU-Conference-2018/blob/main/DTU.pdf" target="_blanck">Publication Here</a> 
+        * Analyzing High Energy X-ray Data from ASTROSAT Satellite (<a href="http://www.iucaa.in/research.html" target="_blanck"> Prof. Ranjeev Misra </a>) <a href="http://publication.iucaa.in/Khagol_115/HTML/2/" target="_blanck">Memories Here!</a>
+        * Spectroscopic Data Reduction of Visual-Binary Stars (<a href="https://www.iau.org/administration/membership/individual/18608/" target="_blanck"> Dr. Margarita Safonova </a>)
+        * Understanding Astronomical Data Processing Software Systems (<a href="https://eng.bangaloreuniversity.ac.in/resume/phy-dr-vijayakumar-h-doddamani/" target="_blanck"> Prof. V.K. Doddamani</a>) <a href="https://github.com/yashakaushal/DTU-Conference-2018/blob/main/DTU.pdf" target="_blanck">Publication Here</a> 
   
   - title: Graduate Engineer Trainee (GET)
     company: Tata Motors Limited
-    company_url: ''
-    # company_logo: pitt
+    company_url: 'https://www.tatamotors.com/'
+    company_logo: tata
     location: Pune, India
     date_start: '2015-07-01'
     date_end: '2016-07-01'
     description: |2- 
-      Served in Program Planning and Project Management (PPPM) Team working on building project milestones and timelines for each department within the company which improved my management, leadership, team playing skills. 
+      Served in Program Planning and Project Management (PPPM) Team working on building project milestones and timelines for each department within the company which improved my management, leadership and team playing skills. 
 
   - title: Summer Internship 
     company: National Institute of Technology, Surathkal 
-    company_url: ''
-    # company_logo: pitt
+    company_url: 'https://ece.nitk.ac.in/'
+    company_logo: nitk
     location: Surathkal , India
     date_start: '2014-05-01'
     date_end: '2014-08-01'
     description: |2-
-      Analyzing performance of various network protocols and topologies in terms of parameters like throughput and end-to-end delay using ns-3 simulator. <a href="http://www.ijmer.com/pages/Vol.4-Iss.7(Version-1).html" target="_blanck">Publication Here</a> 
+      Analyzing performance of various network protocols and topologies in terms of parameters like throughput and end-to-end delay using ns-3 simulator. (<a href="https://ece.nitk.ac.in/faculty/neelawar-shekar-vittal-shet">Prof. NSV Shet</a>) <a href="http://www.ijmer.com/papers/Vol4_Issue7/Version-1/IJMER-47015562.pdf" target="_blanck">Publication Here</a> 
 
 design:
   columns: '2'
