@@ -42,8 +42,8 @@ experience:
     description: |2- 
       Teaching Assistant for two courses:
       
-        * **ASTRON - 0089**  Stars, Galaxies and Cosmos
-        * **PHYS - 0110**   Introduction to Physics
+        * **ASTRON - 0089**  Stars, Galaxies and Cosmos (Instructor: <a href="https://www.physicsandastronomy.pitt.edu/people/sandhya-m-rao"> Prof. Sandhya Rao </a>)
+        * **PHYS - 0110**   Introduction to Physics (Instructor: <a href="https://www.physicsandastronomy.pitt.edu/people/matteo-broccio</a>)
 
   - title: Intern and Visiting Student 
     company: IUCAA-Pune, IIA Bangalore and Bangalore University
@@ -57,7 +57,7 @@ experience:
       
         * Analyzing High Energy X-ray Data from ASTROSAT Satellite (<a href="http://www.iucaa.in/research.html" target="_blanck"> Prof. Ranjeev Misra </a>) <a href="http://publication.iucaa.in/Khagol_115/HTML/2/" target="_blanck">Memories Here!</a>
         * Spectroscopic Data Reduction of Visual-Binary Stars (<a href="https://www.iau.org/administration/membership/individual/18608/" target="_blanck"> Dr. Margarita Safonova </a>)
-        * Understanding Astronomical Data Processing Software Systems (<a href="https://eng.bangaloreuniversity.ac.in/resume/phy-dr-vijayakumar-h-doddamani/" target="_blanck"> Prof. V.K. Doddamani </a>) <a href="https://github.com/yashakaushal/DTU-Conference-2018/blob/main/DTU.pdf" target="_blanck">Publication Here</a> 
+        * Understanding Astronomical Data Processing Software Systems (<a href="https://eng.bangaloreuniversity.ac.in/resume/phy-dr-vijayakumar-h-doddamani/" target="_blanck">Prof. V.K. Doddamani</a>) <br> <a href="https://github.com/yashakaushal/DTU-Conference-2018/blob/main/DTU.pdf" target="_blanck">Publication Here</a> 
   
   - title: Graduate Engineer Trainee (GET)
     company: Tata Motors Limited
@@ -77,7 +77,7 @@ experience:
     date_start: '2014-05-01'
     date_end: '2014-08-01'
     description: |2-
-      Analyzing performance of various network protocols and topologies in terms of parameters like throughput and end-to-end delay using OPNET and ns-3 network simulators. Studied Zigbee protocol for wireless sensor networks in detail. (<a href="https://ece.nitk.ac.in/faculty/neelawar-shekar-vittal-shet">Prof. NSV Shet</a>) <a href="http://www.ijmer.com/papers/Vol4_Issue7/Version-1/IJMER-47015562.pdf" target="_blanck">Publication Here</a> 
+      Analyzing performance of various network protocols and topologies in terms of parameters like throughput and end-to-end delay using OPNET and ns-3 network simulators. Studied Zigbee protocol for wireless sensor networks in detail. (<a href="https://ece.nitk.ac.in/faculty/neelawar-shekar-vittal-shet">Prof. NSV Shet</a>) <br> <a href="http://www.ijmer.com/papers/Vol4_Issue7/Version-1/IJMER-47015562.pdf" target="_blanck">Publication Here</a> 
 
 design:
   columns: '2'
