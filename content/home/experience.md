@@ -43,7 +43,7 @@ experience:
       Teaching Assistant for two courses:
       
         * **ASTRON - 0089**  Stars, Galaxies and Cosmos (Instructor: <a href="https://www.physicsandastronomy.pitt.edu/people/sandhya-m-rao"> Prof. Sandhya Rao </a>)
-        * **PHYS - 0110**   Introduction to Physics (Instructor: <a href="https://www.physicsandastronomy.pitt.edu/people/matteo-broccio</a>)
+        * **PHYS - 0110**   Introduction to Physics (Instructor: <a href="https://www.physicsandastronomy.pitt.edu/people/matteo-broccio">Matteo Broccio</a>)
 
   - title: Intern and Visiting Student 
     company: IUCAA-Pune, IIA Bangalore and Bangalore University
@@ -55,9 +55,10 @@ experience:
     description: |2-
       Gained basic research experience working on 
       
-        * Analyzing High Energy X-ray Data from ASTROSAT Satellite (<a href="http://www.iucaa.in/research.html" target="_blanck"> Prof. Ranjeev Misra </a>) <a href="http://publication.iucaa.in/Khagol_115/HTML/2/" target="_blanck">Memories Here!</a>
-        * Spectroscopic Data Reduction of Visual-Binary Stars (<a href="https://www.iau.org/administration/membership/individual/18608/" target="_blanck"> Dr. Margarita Safonova </a>)
+        * Analyzing High Energy X-ray Data from ASTROSAT Satellite (<a href="http://www.iucaa.in/research.html" target="_blanck">Prof. Ranjeev Misra</a>) <a href="http://publication.iucaa.in/Khagol_115/HTML/2/" target="_blanck">Memories Here!</a>
+        * Spectroscopic Data Reduction of Visual-Binary Stars (<a href="https://www.iau.org/administration/membership/individual/18608/" target="_blanck">Dr. Margarita Safonova</a>)
         * Understanding Astronomical Data Processing Software Systems (<a href="https://eng.bangaloreuniversity.ac.in/resume/phy-dr-vijayakumar-h-doddamani/" target="_blanck">Prof. V.K. Doddamani</a>) <br> <a href="https://github.com/yashakaushal/DTU-Conference-2018/blob/main/DTU.pdf" target="_blanck">Publication Here</a> 
+        * 100-hour certificate course in Astronomy and Astrophysics at <a href="http://www.mpbifr-blr.in/courses/100hr.htm">MPBIFR-Bangalore</a> 
   
   - title: Graduate Engineer Trainee (GET)
     company: Tata Motors Limited
