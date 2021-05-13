@@ -34,7 +34,7 @@ item:
 - certificate_url: https://www.physicsandastronomy.pitt.edu/graduate/graduate-student-awards 
   date_end: "2021-05-01"
   date_start: "2020-08-01"
-  description: $2500 Awarded for Best Technical Essay Writing on '_The Measurement Problem in Quantum Mechanics_'  <br> <a href="https://www.overleaf.com/read/jxjjwqbsyfsq " target="_blanck">See Essay Here</a>
+  description: $2500 Awarded for Best Technical Essay Writing on <br> '_The Measurement Problem in Quantum Mechanics_'  <br> <a href="https://www.overleaf.com/read/jxjjwqbsyfsq " target="_blanck">See Essay Here</a>
   organization: University of Pittsburgh 
   organization_url: https://www.physicsandastronomy.pitt.edu/ 
   title: Thomas-Lain Scholarship Award 
@@ -42,11 +42,11 @@ item:
 - certificate_url: https://spacegeneration.org/sss-pg-essay-competition-2020-winners
   date_end: ""
   date_start: "2020-12-01"
-  description: Acquired 2nd Place in International Space Safety and Sustainability Essay Writing Competition on '_What Space Traffic Management measures must be internationally implemented to improve the safety and sustainability of outer space?_' <br> <a href="https://www.overleaf.com/read/jxjjwqbsyfsq " target="_blanck">See Essay Here</a>
+  description: Acquired 2nd position in International Space Safety and Sustainability Essay Writing Competition on <br> '_What Space Traffic Management measures must be internationally implemented to improve the safety and sustainability of outer space?_' <br> <a href="https://www.overleaf.com/read/jxjjwqbsyfsq " target="_blanck">See Essay Here</a>
   organization: Space Generation Advisory Council (SGAC)
-  organization_url: https://www.datacamp.com
+  organization_url: https://spacegeneration.org/
   title: SSS-PG Essay Competition 2020 Winner 
-  url: "https://spacegeneration.org/sss-pg-essay-competition-2020"
+  url: "https://spacegeneration.org/sss-pg-essay-competition-2020-winners"
 - certificate_url: https://www.datacamp.com
   date_end: "2020-12-21"
   date_start: "2020-07-01"
