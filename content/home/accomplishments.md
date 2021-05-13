@@ -24,7 +24,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: https://crc.pitt.edu/Finding-Light-Eight-Billion-Years-Old 
-  date_end: "2022-06-01"
+  date_end: 
   date_start: "2020-06-01"
   description: Proposal approved and awarded with 3.7 million CPU hours on Pitt Centre for Research and Computing (CRC)Supercomputing Cluster. <br> <a href="https://github.com/yashakaushal/CRC-Proposal/blob/main/proposal_final.pdf" target="_blanck">See Proposal Here</a>
   organization: CRC
