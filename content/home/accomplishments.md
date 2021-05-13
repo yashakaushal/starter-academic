@@ -26,7 +26,7 @@ item:
 - certificate_url: https://crc.pitt.edu/Finding-Light-Eight-Billion-Years-Old 
   date_end: "2022-06-01"
   date_start: "2020-06-01"
-  description: Proposal approved and awarded with 3.7 million CPU hours on Pitt CRC Supercomputing Cluster. <br> <a href="https://github.com/yashakaushal/CRC-Proposal/blob/main/proposal_final.pdf" target="_blanck">See Proposal Here</a>
+  description: Proposal approved and awarded with 3.7 million CPU hours on Pitt Centre for Research and Computing (CRC)Supercomputing Cluster. <br> <a href="https://github.com/yashakaushal/CRC-Proposal/blob/main/proposal_final.pdf" target="_blanck">See Proposal Here</a>
   organization: CRC
   organization_url:   https://crc.pitt.edu/ 
   title: Computational Proposal of 3.7 million CPU hours 
@@ -35,7 +35,7 @@ item:
 - certificate_url: https://www.physicsandastronomy.pitt.edu/graduate/graduate-student-awards 
   date_end: "2021-05-01"
   date_start: "2020-08-01"
-  description: Awarded with $2500 for Best Technical Essay Writing on '**The Measurement Problem in Quantum Mechanics**'  <br> <a href="https://www.overleaf.com/read/jxjjwqbsyfsq " target="_blanck">See Essay Here</a>
+  description: Best Technical Essay Writing on '**The Measurement Problem in Quantum Mechanics**'  <br> <a href="https://www.overleaf.com/read/jxjjwqbsyfsq " target="_blanck">See Essay Here</a>
   organization: University of Pittsburgh 
   organization_url: https://www.physicsandastronomy.pitt.edu/ 
   title: Thomas-Lain Scholarship Award 
@@ -44,7 +44,7 @@ item:
 - certificate_url: https://twitter.com/SGAC_SSS/status/1362449170901200897/photo/1 
   date_end: ""
   date_start: "2020-12-01"
-  description: Acquired 2nd position in International Space Safety and Sustainability Essay Writing Competition on <br> '**What Space Traffic Management measures must be internationally implemented to improve the safety and sustainability of outer space?**' <br> <a href="https://github.com/yashakaushal/my-certificates/blob/main/SGAC_STM_Essay.pdf" target="_blanck">See Essay Here</a>
+  description: Acquired 2nd position in International Essay Writing Competition on '**Space Safety and Sustainability**' <br> <a href="https://github.com/yashakaushal/my-certificates/blob/main/SGAC_STM_Essay.pdf" target="_blanck">See Essay Here</a>
   organization: Space Generation Advisory Council (SGAC)
   organization_url: https://spacegeneration.org/
   title: SSS-PG Essay Competition 2020 Winner 
@@ -61,7 +61,7 @@ item:
 
 - certificate_url: https://www.coursera.org/account/accomplishments/verify/7NBGVCNNPFXU?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course
   date_end: ""
-  date_start: "2017-03-01"
+  date_start: "2017-04-01"
   description: Stanford University, **96.3%**
   organization: Coursera
   organization_url: https://www.coursera.org
