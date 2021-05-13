@@ -44,7 +44,7 @@ item:
 - certificate_url: https://spacegeneration.org/sss-pg-essay-competition-2020-winners
   date_end: ""
   date_start: "2020-12-01"
-  description: Acquired 2nd position in International Space Safety and Sustainability Essay Writing Competition on <br> '_What Space Traffic Management measures must be internationally implemented to improve the safety and sustainability of outer space?_ ' <br> {{< staticref "/sgac.pdf" "newtab" >}}See Essay Here{{< /staticref >}}
+  description: Acquired 2nd position in International Space Safety and Sustainability Essay Writing Competition on <br> '_What Space Traffic Management measures must be internationally implemented to improve the safety and sustainability of outer space?_ ' <br> <a href="https://github.com/yashakaushal/my-certificates/blob/main/SGAC_STM_Essay.pdf" target="_blanck">See Essay Here</a>
   organization: Space Generation Advisory Council (SGAC)
   organization_url: https://spacegeneration.org/
   title: SSS-PG Essay Competition 2020 Winner 
