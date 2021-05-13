@@ -31,22 +31,25 @@ item:
   organization_url:   https://crc.pitt.edu/ 
   title: Computational Proposal of 3.7 million CPU hours 
   url: "https://crc.pitt.edu/Finding-Light-Eight-Billion-Years-Old"
+
 - certificate_url: https://www.physicsandastronomy.pitt.edu/graduate/graduate-student-awards 
   date_end: "2021-05-01"
   date_start: "2020-08-01"
-  description: $2500 Awarded for Best Technical Essay Writing on <br> '_The Measurement Problem in Quantum Mechanics_'  <br> <a href="https://www.overleaf.com/read/jxjjwqbsyfsq " target="_blanck">See Essay Here</a>
+  description: Awarded with $2500 for Best Technical Essay Writing on <br> '_The Measurement Problem in Quantum Mechanics_ '  <br> <a href="https://www.overleaf.com/read/jxjjwqbsyfsq " target="_blanck">See Essay Here</a>
   organization: University of Pittsburgh 
   organization_url: https://www.physicsandastronomy.pitt.edu/ 
   title: Thomas-Lain Scholarship Award 
   url: https://www.physicsandastronomy.pitt.edu/graduate/graduate-student-awards
+
 - certificate_url: https://spacegeneration.org/sss-pg-essay-competition-2020-winners
   date_end: ""
   date_start: "2020-12-01"
-  description: Acquired 2nd position in International Space Safety and Sustainability Essay Writing Competition on <br> '_What Space Traffic Management measures must be internationally implemented to improve the safety and sustainability of outer space?_' <br> <a href="https://www.overleaf.com/read/jxjjwqbsyfsq " target="_blanck">See Essay Here</a>
+  description: Acquired 2nd position in International Space Safety and Sustainability Essay Writing Competition on <br> '_What Space Traffic Management measures must be internationally implemented to improve the safety and sustainability of outer space?_ ' <br> {{< staticref "/sgac.pdf" "newtab" >}}See Essay Here{{< /staticref >}}
   organization: Space Generation Advisory Council (SGAC)
   organization_url: https://spacegeneration.org/
   title: SSS-PG Essay Competition 2020 Winner 
   url: "https://spacegeneration.org/sss-pg-essay-competition-2020-winners"
+
 - certificate_url: https://www.datacamp.com
   date_end: "2020-12-21"
   date_start: "2020-07-01"
@@ -55,6 +58,7 @@ item:
   organization_url: https://www.datacamp.com
   title: 'Object-Oriented Programming in R'
   url: ""
+
 - certificate_url: https://www.datacamp.com
   date_end: "2020-12-21"
   date_start: "2020-07-01"
@@ -63,6 +67,7 @@ item:
   organization_url: https://www.datacamp.com
   title: 'Object-Oriented Programming in R'
   url: ""
+
 design:
   columns: '2' 
 ---
