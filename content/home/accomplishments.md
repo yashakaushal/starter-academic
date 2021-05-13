@@ -98,10 +98,7 @@ item:
 - certificate_url: 
   date_end: ""
   date_start: "2017-07-31"
-  description: Dissertation and seminar on '**Multi-wavelength Astronomical Spectroscopy**' <br> 
-  Guide - <a href="http://mpbifr-blr.in/team/gsd_babu.htm" target="_blanck">Dr. GSD Babu</a> <br> 
-  Grade - 'Excellent' <br> 
-  <a href="" target="_blanck">See Dissertation Here</a>
+  description: Dissertation and seminar on '**Multi-wavelength Astronomical Spectroscopy**' <br> Guide - <a href="http://mpbifr-blr.in/team/gsd_babu.htm" target="_blanck">Dr. GSD Babu</a> <br> Grade - 'Excellent' <br> <a href="" target="_blanck">See Dissertation Here</a>
   organization: MPBIFR, Bangalore 
   organization_url: https://www.mpbifr-blr.in/
   title: 100-hour certificate course in Astronomy and Astrophysics
