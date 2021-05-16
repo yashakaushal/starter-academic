@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "EGU2021: Climate change in the High Mountain Asia simulated with CMIP6 models"
-event: "EGU General Assembly 2021"
-event_url: "https://meetingorganizer.copernicus.org/EGU21/session/39537"
-location: "vEGU21: Gather Online | 19–30 April 2021"
+title: "Advanced Research through Computing Conference 2021"
+event: "ARC-2021 Poster Presentation"
+event_url: "https://crc.pitt.edu/CRC_Advancing_Research_through_Computing_2021"
+location: "ARC-2021: Online | 06 April 2021"
 address:
   street:
   city:
@@ -12,20 +12,20 @@ address:
   postcode:
   country:
 summary:
-abstract: "https://meetingorganizer.copernicus.org/EGU21/EGU21-8365.html"
+abstract: "https://crc.pitt.edu/ARC-21-poster-contest-abstracts" 
 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2021-04-27T09:00:00+02:00
-date_end: 2021-04-27T09:10:00+02:00
+date: 2021-04-06T09:00:00+02:00
+# date_end: 2021-04-06T09:10:00+02:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: 2021-04-01T15:09:23+02:00
 
 authors: ["admin"]
-tags: ["EGU", "CMIP6", "HMA"]
+tags: ["Advanced Computing", "Research", "Cluster"]
 
 # Is this a featured talk? (true/false)
 featured: true
@@ -47,10 +47,10 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides: "talk/phd/egu/2021-cmip6-hma-paper/20210427_EGU_CMIP6-HMA-paper_LALANDE.pdf"
+url_slides: "talk/phd/ARC_2021/ARC2021_YK.pdf"
 
-url_code: "https://github.com/mickaellalande/PhD/tree/master/CICLAD/Himalaya/CMIP6_HMA_paper"
-url_pdf:
+url_code: ""
+url_pdf: https://crc.pitt.edu/sites/default/files/Yasha_Kaushal_ARC_2021.pdf 
 url_video:
 
 # Markdown Slides (optional).
@@ -65,7 +65,8 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ["PhD"]
+projects: []
 ---
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS_zF_HQO40vzgR-qrgQfOIdi29wsVR-5zoQRze1n4u7k6vZtMrLsOONfi0uZ3PnqxTdkL5A9nbJSwy/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://drive.google.com/file/d/13mv3hwf-L2zXO9oX1S6pV8JJAeOQ3ZbN/view?usp=sharing" 
+frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>

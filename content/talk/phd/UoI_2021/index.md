@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "University of California, Santa Cruz : No Jargon Talk 2021"
-event: "No Jargon Talk"
+title: "Univeristy of Iowa: Stellar Population Properties and Star formation Histories of Galaxies in ~6 billion years old Universe"
+event: "Seminar Talk March 2021"
 event_url: ""
-location: "UCSC: Online | 22 April 2021"
+location: "UoI: Online | 17 March 2021"
 address:
   street:
   city:
@@ -12,20 +12,20 @@ address:
   postcode:
   country:
 summary:
-abstract: "https://app.luminpdf.com/viewer/60a157e4c503cd0011353d01"
+abstract: ""
 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2021-04-27T09:00:00+02:00
-date_end: 2021-04-27T09:10:00+02:00
+date: 2021-03-17T09:00:00+02:00
+# date_end: 2021-04-27T09:10:00+02:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2021-04-01T15:09:23+02:00
+publishDate: 2021-02-01T15:09:23+02:00
 
 authors: ["admin"]
-tags: ["No Jargon", "Galaxies", "Past"]
+tags: ["Galaxies", "Stellar Population", "Star Formation Histories"]
 
 # Is this a featured talk? (true/false)
 featured: true
@@ -47,8 +47,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides: "talk/phd/no_jargon_2021/No_Jargon_Apr22_2021.pdf"
-
+url_slides: "talk/phd/UoI_2021/UoI_Mar2021.pdf"
 url_code: ""
 url_pdf:
 url_video:
@@ -68,4 +67,4 @@ slides: ""
 projects: []
 ---
 
-<iframe src="https://app.luminpdf.com/viewer/60a157e4c503cd0011353d01" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://drive.google.com/file/d/1A1rkT0CDCcm8aOQNEM-_kp7r-4Tf9TmA/view?usp=sharing" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>

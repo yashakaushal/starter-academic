@@ -1,31 +1,31 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "University of Pittsburgh 3-Minute-Thesis Competition"
-event: "Finalist in 3MT-2021 Competition"
-event_url: "https://www.provost.pitt.edu/3mt-peoples-choice-award"
-location: "3MT-2021: Online | 28 March 2021"
+title: "University of California, Santa Cruz : No Jargon Talk 2021"
+event: "No Jargon Talk"
+event_url: ""
+location: "UCSC: Online | 22 April 2021"
 address:
   street:
   city:
   region:
   postcode:
-  country: USA
-summary: 
-abstract: "https://youtu.be/1OZrz-qDeY8"
+  country:
+summary:
+abstract: "https://app.luminpdf.com/viewer/60a157e4c503cd0011353d01"
 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2021-03-38T09:00:00+02:00
-# date_end: 2021-04-27T09:10:00+02:00
+date: 2021-04-27T09:00:00+02:00
+date_end: 2021-04-27T09:10:00+02:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: 2021-04-01T15:09:23+02:00
 
 authors: ["admin"]
-tags: ["3MT", "University of Pittsburgh", "Galaxies"]
+tags: ["No Jargon", "Galaxies", "Past"]
 
 # Is this a featured talk? (true/false)
 featured: true
@@ -47,11 +47,11 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides: "talk/phd/UoI_2021/UoI_Mar2021.pdf"
+url_slides: "talk/phd/no_jargon_2021/No_Jargon_Apr22_2021.pdf"
 
 url_code: ""
 url_pdf:
-url_video: "https://youtu.be/1OZrz-qDeY8"
+url_video:
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -65,7 +65,7 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [] #"PhD"
+projects: []
 ---
 
-<!-- <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS_zF_HQO40vzgR-qrgQfOIdi29wsVR-5zoQRze1n4u7k6vZtMrLsOONfi0uZ3PnqxTdkL5A9nbJSwy/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> -->
+<iframe src="https://app.luminpdf.com/viewer/60a157e4c503cd0011353d01" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
