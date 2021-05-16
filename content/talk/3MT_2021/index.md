@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "University of Pittsburgh 3-Minute-Thesis Competition"
-event: "Finalist in 3MT-2021 talk"
+event: "Finalist in 3MT-2021 Competition"
 event_url: "https://www.provost.pitt.edu/3mt-peoples-choice-award"
 location: "3MT-2021: Online | 28 March 2021"
 address:

@@ -41,14 +41,14 @@ item:
   title: Thomas-Lain Scholarship Award 
   url: https://www.physicsandastronomy.pitt.edu/graduate/graduate-student-awards
 
-- certificate_url: https://twitter.com/SGAC_SSS/status/1362449170901200897/photo/1 
+- certificate_url:  https://spacegeneration.org/sss-pg-essay-competition-2020-winners
   date_end: ""
   date_start: "2020-12-01"
   description: Acquired 2nd position in International Essay Writing Competition on '**Space Safety and Sustainability**' <br> <a href="https://github.com/yashakaushal/my-certificates/blob/main/SGAC_STM_Essay.pdf" target="_blanck">See Essay Here</a>
   organization: Space Generation Advisory Council (SGAC)
   organization_url: https://spacegeneration.org/
   title: SSS-PG Essay Competition 2020 Winner 
-  url: "https://spacegeneration.org/sss-pg-essay-competition-2020-winners"
+  url: "https://twitter.com/SGAC_SSS/status/1362449170901200897/photo/1"
 
 - certificate_url: https://www.coursera.org/account/accomplishments/verify/78NS36QJVVT3?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course 
   date_end: ""

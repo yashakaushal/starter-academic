@@ -24,7 +24,7 @@ interests:
 - Galaxy Dynamics and Evolution
 - SED Modeling (Parametric and Non-Parametric) 
 - Star Formation Histories 
-- Statistics and Machine Learning Methods 
+- Statistics and Machine Learning 
 - Science Communication 
 
 # Education to show in About widget
