@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "University of Pittsburgh 3-Minute-Thesis Competition"
+title: "3-Minute-Thesis Competition, University of Pittsburgh"
 event: "Finalist in 3MT-2021 Competition"
 event_url: "https://www.provost.pitt.edu/3mt-peoples-choice-award"
 location: "3MT-2021: Online | 28 March 2021"
@@ -68,4 +68,4 @@ slides: ""
 projects: [] #"PhD"
 ---
 
-<iframe src="https://drive.google.com/file/d/19_A9486v_Q52TPX5JGTMaEAl163Sfxbh/view?usp=sharing" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<!-- <iframe src="https://drive.google.com/file/d/19_A9486v_Q52TPX5JGTMaEAl163Sfxbh/view?usp=sharing" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> -->

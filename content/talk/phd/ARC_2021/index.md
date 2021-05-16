@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Advanced Research through Computing Conference 2021"
+title: "University of Pittsburgh : Advanced Research through Computing Conference 2021"
 event: "ARC-2021 Poster Presentation"
 event_url: "https://crc.pitt.edu/CRC_Advancing_Research_through_Computing_2021"
 location: "ARC-2021: Online | 06 April 2021"
