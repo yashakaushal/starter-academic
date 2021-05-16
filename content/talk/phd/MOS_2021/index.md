@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "STScI : "
+title: "STScI : Statistical Recovery of Stellar Population Properties and Star Formation Histories of  0.6 < z < 1 Galaxies using LEGA-C and BAGPIPES"
 event: "Space Telescope Science Institute (STScI): Multi-object Spectroscopy Workshop 2021"
 event_url: "https://meetingorganizer.copernicus.org/EGU21/session/39537"
 location: "STScI: Online | 17 - 20 May 2021"
@@ -17,8 +17,8 @@ abstract: "https://www.stsci.edu/contents/events/stsci/2021/may/multi-object-spe
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2021-03-17T09:00:00+02:00
-date_end: 2021-03-20T09:10:00+02:00
+date: 2021-05-17T09:00:00+02:00
+date_end: 2021-05-20T09:10:00+02:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).

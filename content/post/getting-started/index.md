@@ -3,7 +3,7 @@ title: How to build your own academic website?
 subtitle: Leran setp-by-step how to build your home page with hugo and github!
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: Leran setp-by-step how to build your home page with hugo and github! (Updated post coming soon!)
 
 # Link this post with a project
 projects: []
