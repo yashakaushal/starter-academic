@@ -26,7 +26,7 @@ item:
 - certificate_url: https://crc.pitt.edu/Finding-Light-Eight-Billion-Years-Old 
   date_end: 
   date_start: "2020-06-01"
-  description: Proposal approved and awarded with 3.7 million CPU hours on Pitt Centre for Research and Computing (CRC)Supercomputing Cluster. <br> <a href="https://github.com/yashakaushal/CRC-Proposal/blob/main/proposal_final.pdf" target="_blanck">See Proposal Here</a>
+  description: Proposal approved and awarded with 3.7 million CPU hours on Pitt Centre for Research and Computing (CRC) Supercomputing Cluster. <br> <a href="https://github.com/yashakaushal/CRC-Proposal/blob/main/proposal_final.pdf" target="_blanck">See Proposal Here</a>
   organization: CRC
   organization_url:   https://crc.pitt.edu/ 
   title: Computational Proposal of 3.7 million CPU hours 
