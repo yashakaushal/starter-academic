@@ -49,7 +49,7 @@ image:
 # Optional filename of your slides within your talk's folder or a URL.
 url_slides: "talk/phd/UoI_2021/UoI_Mar2021.pdf"
 url_code: ""
-url_pdf:
+url_pdf: "talk/phd/UoI_2021/UoI_Mar2021.pdf"
 url_video:
 
 # Markdown Slides (optional).
