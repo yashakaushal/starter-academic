@@ -30,8 +30,8 @@ address:
   country: United States
   country_code: US
 coordinates:
-  latitude: '40.4446'
-  longitude: '79.95832'
+  latitude: '40.44470579432723'
+  longitude: '-79.95828818476866'
 directions: Enter Building 1 and take the elevator to Office 500 on Floor 5
 # office_hours:
 #   - 'Monday 10:00 to 13:00'
@@ -129,7 +129,7 @@ comments:
     publication: true
     event: true
   disqus:
-    shortname: ''
+    shortname: 'yashakaushal-github-io'
     show_count: true
   commento:
     url: ''
@@ -141,7 +141,7 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: '1'
+  provider: '2'
   engine: 2
   api_key: ''
   zoom: 15
