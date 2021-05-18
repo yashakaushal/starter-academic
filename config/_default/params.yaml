@@ -141,7 +141,7 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: '2'
+  # provider: '2'
   engine: 2
   api_key: ''
   zoom: 15
