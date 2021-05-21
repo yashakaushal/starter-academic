@@ -5,7 +5,9 @@
 
 title: Yasha Kaushal # Website name
 baseurl: 'https://yashakaushal.github.io/' # Website URL
-copyright: '<a href="http://www.clustrmaps.com/map/Yashakaushal.github.io" title="Visit tracker for Yashakaushal.github.io"><img src="//www.clustrmaps.com/map_v2.png?d=8lJLh5tfFfZV7Jp2PuOYr9WIiCFPM8wMXZUq-4rgtTw" /></a>' # Footer text, e.g. '© {year} Me'
+copyright: <script type="text/javascript" src="//rf.revolvermaps.com/0/0/2.js?i=5qv5ue0rc13&amp;m=0&amp;s=174&amp;c=ff0000&amp;t=1" async="async"></script>
+  
+# '<a href="http://www.clustrmaps.com/map/Yashakaushal.github.io" title="Visit tracker for Yashakaushal.github.io"><img src="//www.clustrmaps.com/map_v2.png?d=8lJLh5tfFfZV7Jp2PuOYr9WIiCFPM8wMXZUq-4rgtTw" width="400" height="400"/></a>' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE

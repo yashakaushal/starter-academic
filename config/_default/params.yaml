@@ -141,9 +141,9 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: '2'
+  # provider: '2'
   engine: 2
-  api_key: ''
+  api_key: 'AIzaSyDP3NMoB2wkJVgKnQgQPZIeBFPDoLaT-10'
   zoom: 15
 marketing:
   google_analytics: 'UA-197250445-1'
