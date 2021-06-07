@@ -45,7 +45,7 @@ permalinks:
   publication_types: '/publication-type/:slug/'
 disableAliases: true
 outputs:
-  home: [HTML, RSS, JSON, WebAppManifest, redirects, headers]
+  home: [HTML, RSS, JSON,WebAppManifest,redirects, headers]
   section: [HTML, RSS]
 markup:
   defaultMarkdownHandler: goldmark
