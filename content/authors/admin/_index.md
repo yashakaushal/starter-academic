@@ -6,7 +6,7 @@ title: Yasha Kaushal
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate
+role: Data Science | Astrophysics | PhD (2024)
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -17,22 +17,23 @@ organizations:
   
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in understanding the dynamics, evolution and star-formation history of high redshift galaxies using statistical SED Modeling. 
+bio: Interested in Statistical Modeling, Data Science and Machine Learning
 
 # Interests to show in About widget
 interests:
-- Galaxy Dynamics and Evolution
-- SED Modeling (Parametric and Non-Parametric) 
-- Star Formation Histories 
-- Statistics and Machine Learning 
+- Statistics
+- Data Science 
+- Machine Learning
+- Deep Learning 
+- AI and LLM
 - Science Communication 
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD Candidate in Physics 
+  - course: PhD in Physics 
     institution: University of Pittsburgh, USA
-    year: 2020 - Present
+    year: 2020 - 2024
   - course: Master of Science in Physics 
     institution: University of Pittsburgh, USA
     year: 2018 - 2020
@@ -53,7 +54,7 @@ social:
   link: https://twitter.com/KaushalYasha
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=ECbFOREAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/yashakaushal
@@ -82,8 +83,10 @@ email: "yak39@pitt.edu"
 highlight_name: true
 ---
 
- I am a third year Gradute Student in the Department of Physics and Astronomy at the University of Pittsburgh. I am working under the supervision of [Dr. Rachel Bezanson](https://rachelbezanson.github.io/). My research focuses on statistical understanding of the dynamics and evolution of high-redshift galaxies through the cosmic time using high resolution spectroscopy and multi-band photometry. Most of my analysis so far involve working with [LEGA-C Spectroscopic Survey](https://www2.mpia-hd.mpg.de/home/legac/) data products and Bayesian SED Modeling package [BAGPIPES](https://github.com/ACCarnall/bagpipes/blob/master/docs/index.rst). I am an engineer-turned-astrophysicist, love talking about science and currently serving as an Outreach Coordinator for [Women and Minorities in Physics (WMP)](https://sites.google.com/view/wmp-physics-pitt/home) Group at Pitt and as a Society of Physics Students (SPS) Mentor. When not doing research, I could be found doing [Zoomba](https://twitter.com/KaushalYasha/status/1379159957518610441), [Orange Theory Fitness](https://www.orangetheory.com/en-us/?utm_source=us&utm_medium=sem&utm_campaign=Orangetheory-PPC-Brand-General&utm_term=tombras&utm_content=2_free&gclid=Cj0KCQjws-OEBhCkARIsAPhOkIajVa7XVxQG45bbt9Uf8s0gXjW_YKXs2ZLxLkqdxVEVPPfzVg460EkaArQKEALw_wcB), [Dancing](https://www.youtube.com/watch?v=2i_vUyVNzOU) or Gardening. 
+ I am a final year Physics PhD student who is passionate about data-driven research and applying advanced statistical tools to gain insights from big data. I am committed to continuous learning and keeping up with emerging technologies. I come from a diverse background with over 8 years of dedicated research experience and involved in some great diversity initiatives - currently serving as the President of [Alliance for Diversity in Science and Engineering](https://sites.google.com/view/adsepitt/home)(ADSE@Pitt) and Outreach Coordinator for [Women and Minorities in Physics (WMP)](https://sites.google.com/view/wmp-physics-pitt/home) Group at the University of Pittsburgh. When not doing research, I could be found listening to [Super Data Science Podcast](https://www.superdatascience.com/podcast) (highly recommended!), doing [Zoomba](https://twitter.com/KaushalYasha/status/1379159957518610441), [Orange Theory Fitness](https://www.orangetheory.com/en-us/?utm_source=us&utm_medium=sem&utm_campaign=Orangetheory-PPC-Brand-General&utm_term=tombras&utm_content=2_free&gclid=Cj0KCQjws-OEBhCkARIsAPhOkIajVa7XVxQG45bbt9Uf8s0gXjW_YKXs2ZLxLkqdxVEVPPfzVg460EkaArQKEALw_wcB) or [Dancing](https://www.youtube.com/watch?v=2i_vUyVNzOU).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "/cs2.jpeg" "newtab" >}}resumé{{< /staticref >}}.
 
-<!-- I am interested in studying recovery of their star-formation histories and interplay of their stellar population parameters like stellar metallicity, light-weighted ages and dust attenuation with morphology, feedback processes and environment -->
+<!-- 
+
+-->
